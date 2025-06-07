@@ -1,0 +1,47 @@
+body{
+    background-image:url("https://5.imimg.com/data5/DB/WJ/MY-605509/music-concert.jpg") ;
+    background-size: cover;
+    padding:20px;
+}
+.container{
+    background-color: rgb(0, 0,0,0.5);
+    text-shadow:2px 2px 2px cyan;
+    padding:10px;
+    border:2px dashed white;
+    color: white;
+    padding:10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.container1{
+    background-color:rgb(255, 255,255,0.5);
+    border-radius: 20px;
+    padding:10px;
+    margin-bottom: 10px;
+}
+button{
+    color:white;
+    background-color: #303134;
+    padding: 5px;
+}
+.container2{
+    border:3px dashed white;
+    padding : 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.container3{
+    border:3px dashed white;
+    padding : 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    color:white;
+}
+.songs{
+    display: flex;
+}
+img{
+    height:150px;
+    width: 100px;
+    margin:5px;
+}
